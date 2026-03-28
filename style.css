@@ -1,0 +1,29 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  text-align: center;
+}
+
+.navbar {
+  background: #333;
+  padding: 10px;
+}
+
+.navbar a {
+  color: white;
+  padding: 14px 20px;
+  text-decoration: none;
+}
+
+.navbar a:hover {
+  background: #575757;
+}
+
+.hero {
+  background: #f4f4f4;
+  padding: 50px;
+}
+
+.section {
+  padding: 40px;
+}
